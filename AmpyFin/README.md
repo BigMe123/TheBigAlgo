@@ -151,7 +151,7 @@ This software is for educational purposes only. Trading involves significant fin
 
 ## License
 
-MIT License
+Ownership proprietary 
 
 ## Contributing
 
