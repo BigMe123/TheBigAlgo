@@ -35,6 +35,7 @@ An advanced algorithmic trading system leveraging machine learning, news sentime
    - Generates predictive signals using machine learning
    - Combines multiple data sources and models
    - Adaptive signal generation
+   - BHMM and Graduate level mathmatical market regime analysis
 
 2. **Ranking Client**
    - Simulates and ranks trading strategies
@@ -151,7 +152,7 @@ This software is for educational purposes only. Trading involves significant fin
 
 ## License
 
-MIT License
+COPYRIGHT, DO NOT USE WITHOUT EXPLICIT CONTRACTUAL PERMISSION FROM OWNER. 
 
 ## Contributing
 
