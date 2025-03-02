@@ -4,74 +4,91 @@
 
 TheBigAlgo is a cutting-edge, multi-dimensional trading intelligence platform that leverages state-of-the-art machine learning, advanced signal processing, and comprehensive market analysis to generate sophisticated trading strategies.
 
-## 🚀 Technological Innovations
+## 🧠 Advanced Computational Techniques
 
-### Advanced Machine Learning Capabilities
-- **Multi-Model Ensemble Prediction**
-  - Combines multiple machine learning models
-  - Dynamic model weighting
-  - Adaptive learning algorithms
+### Probabilistic Modeling
+- **Bayesian Hidden Markov Models (BHMM)**
+  - Dynamic regime detection
+  - Probabilistic state transitions
+  - Adaptive market condition inference
 
-- **High-Frequency Trading (HFT) Analysis**
-  - Microstructure market analysis
-  - Order flow modeling
-  - Advanced signal processing techniques
+- **Particle Filter Market Analysis**
+  - Sequential Monte Carlo methods
+  - Real-time market state estimation
+  - Robust signal generation under uncertainty
 
-### Intelligent Signal Generation
-- **Comprehensive Signal Sources**
-  - Machine Learning Predictions
-  - Technical Analysis Strategies
-  - News Sentiment Analysis
-  - Market Regime Detection
+### Machine Learning Innovations
+- **Ensemble Model Architecture**
+  - Multi-model signal integration
+  - Adaptive model weighting
+  - Continuous learning mechanisms
 
-### Cutting-Edge Market Intelligence
+### Sophisticated Signal Processing
 
-#### Signal Processing Techniques
+#### Mathematical Modeling Techniques
 - **Wavelet Momentum Analysis**
+  - Multi-scale signal decomposition
+  - Non-linear trend detection
 - **Kalman Filter Price Prediction**
+  - Dynamic state estimation
+  - Noise reduction in market signals
 - **Topological Data Analysis**
-- **Complex Network Market Modeling**
-- **Regime Switching Detection**
-- **Statistical Arbitrage Modeling**
-
-#### Advanced Analytical Approaches
-- **Fractal Market Hypothesis Modeling**
+  - Persistent homology
+  - Complex market structure mapping
 - **Quantum-Inspired Oscillator Strategies**
+  - Quantum computing-inspired algorithms
+  - Advanced signal generation
+
+#### Advanced Statistical Approaches
+- **Levy Distribution Price Modeling**
+  - Fat-tailed market movement analysis
+- **Fractal Market Hypothesis Implementation**
+- **Complex Network Market Modeling**
 - **Information Flow Tracking**
-- **Levy Distribution Price Movement Analysis**
+- **Statistical Arbitrage Techniques**
 
 ## System Architecture
 
 ```
 ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│  ML Signal      │     │  Ranking        │     │  Trading        │     │  News & Market  │
-│  Generator      │◄────┤  Optimization   │◄────┤  Execution      │◄────┤  Sentiment      │
-│  (Core Engine)  │─────►  Client         │─────►  Client         │─────►  Analyzer       │
+│  Probabilistic  │     │  Ranking        │     │  Trading        │     │  News & Market  │
+│  ML Generator   │◄────┤  Optimization   │◄────┤  Execution      │◄────┤  Sentiment      │
+│  (BHMM Core)    │─────►  Client         │─────►  Client         │─────►  Analyzer       │
 │                 │     │                 │     │                 │     │                 │
 └────────┬────────┘     └────────┬────────┘     └────────┬────────┘     └────────┬────────┘
          │                       │                       │                       │
          ▼                       ▼                       ▼                       ▼
 ┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│                        Centralized Data Management & Intelligence Hub                       │
+│                        Centralized Intelligence & Data Management Hub                       │
 │  MongoDB Collections:                                                                      │
-│  - Trading Signals     - Market Sentiment   - Performance Metrics                          │
-│  - Historical Data     - Regime Indicators  - Strategy Rankings                            │
+│  - Probabilistic Signals  - Market Regimes    - Performance Metrics                        │
+│  - Historical Dynamics    - Strategy Weights  - Sentiment Indicators                       │
 └─────────────────────────────────────────────────────────────────────────────────────────────┘
                               │
                               ▼
 ┌─────────────────────────────────────────────────────────────────────────────────────────────┐
-│                       Trading Platforms & Risk Management                                   │
-│  - Alpaca             - Interactive Brokers  - Advanced Risk Controls                      │
+│                       Trading Platforms & Intelligent Risk Management                       │
+│  - Alpaca             - Advanced Execution   - Adaptive Risk Controls                      │
 └─────────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
-## 🔬 Technical Depth
+## 🔬 Technical Capabilities
 
-### Machine Learning Capabilities
-- **Ensemble Model Stacking**
-- **Reinforcement Learning Weight Generation**
-- **Dynamic Feature Engineering**
-- **Continuous Model Retraining**
+### Core Intelligence Modules
+- **Bayesian Hidden Markov Model (BHMM)**
+  - Market regime probabilistic inference
+  - Dynamic state transition modeling
+  - Adaptive learning mechanism
+
+- **Particle Filter Market Analysis**
+  - Sequential importance resampling
+  - Real-time market state estimation
+  - Robust signal generation
+
+- **High-Frequency Trading (HFT) Analyzer**
+  - Microstructure market analysis
+  - Order flow modeling
+  - Advanced signal processing
 
 ### Risk Management
 - **Intelligent Portfolio Optimization**
@@ -79,22 +96,17 @@ TheBigAlgo is a cutting-edge, multi-dimensional trading intelligence platform th
 - **Multi-Regime Risk Adjustment**
 - **Advanced Stop-Loss Mechanisms**
 
-### Data Sources
-- Multiple Financial APIs
-- Real-time News Aggregation
-- High-Frequency Market Data
-- Alternative Data Integration
-
 ## Prerequisites
 
 ### Technical Requirements
 - Python 3.8+
-- MongoDB 4.4+
 - Advanced ML Libraries
   - TensorFlow
   - scikit-learn
   - NumPy
   - Pandas
+  - pomegranate (for BHMM)
+  - filterpy (for Particle Filters)
 
 ### Required API Integrations
 - Alpaca Trading Platform
@@ -135,43 +147,6 @@ MONGO_DB_PASS = "your_mongodb_password"
 MONGO_URL = "your_mongodb_connection_string"
 ```
 
-## System Components
-
-1. **ML Signal Generator**
-   - Advanced predictive modeling
-   - Multi-source signal integration
-
-2. **Ranking Optimization Client**
-   - Strategy performance tracking
-   - Dynamic strategy weighting
-
-3. **Trading Execution Client**
-   - Intelligent trade decision-making
-   - Risk-aware execution
-
-4. **News & Market Sentiment Analyzer**
-   - Multi-source sentiment aggregation
-   - Real-time market mood detection
-
-## Execution
-
-### Start Core Components
-```bash
-# Start Signal Generator
-python signal_integrator.py
-
-# Start Ranking Client
-python ranking_client.py
-
-# Start Trading Client
-python trading_client.py
-```
-
-## 🚨 Important Disclaimer
-
-**FINANCIAL RISK WARNING**: 
-This system is an experimental trading research tool. Trading involves significant financial risk. Absolutely do not use this for live trading without extensive testing and professional financial advice.
-
 ## Licensing
 
 ### TheBigAlgo License Agreement
@@ -194,17 +169,19 @@ Copyright © 2025 by Marco Dorazio
 Marco Dorazio
 Email: shadowguy311@gmail.com
 
+## 🚨 Critical Disclaimer
+
+**FINANCIAL RISK WARNING**: 
+This is an experimental trading research tool. Trading involves significant financial risk. 
+**Absolutely do not use for live trading without extensive professional review.**
+
 ## Contributing
 
 **Note**: Contributions are subject to review and must comply with the license terms.
 
-1. Review the full license agreement carefully
+1. Carefully review the full license agreement
 2. Contact the author for any permissions
 3. Do not submit contributions that violate the license
-
-## Legal Notice
-
-By using TheBigAlgo, you agree to the full terms of the license agreement.
 
 ---
 
