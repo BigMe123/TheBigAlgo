@@ -2,3 +2,10 @@
 __pycache__/
 venv/
 AlphaSynth/.git
+CSVdata/*.csv
+AmpyFin/config.py
+AmpyFin/local_config.py
+AmpyFin/deployed_model/best_model_moving.joblib
+.DS_Store
+__pycache__/
+venv/
