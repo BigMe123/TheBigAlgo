@@ -1,8 +1,8 @@
-ALPHA SYNTH LICENSE AGREEMENT
-Copyright © 2025 by Marco Dorazio
+TheBigAlgo LICENSE AGREEMENT
+Copyright © 2025 by Marcus Dorazio
 All Rights Reserved
 
-This License Agreement (hereinafter, the “License”) is a legal agreement between you (either an individual or an entity, hereinafter “You” or “Licensee”) and Marco Dorazio (hereinafter, “Licensor”) regarding the software program known as “Alpha Synth” (hereinafter, the “Software”).
+This License Agreement (hereinafter, the “License”) is a legal agreement between you (either an individual or an entity, hereinafter “You” or “Licensee”) and Marco Dorazio (hereinafter, “Licensor”) regarding the software program known as “TheBigAlgo” (hereinafter, the “Software”).
 
 1. License Grant
 1.1 Grant of License. Subject to the terms and conditions of this License, Licensor hereby grants You a limited, non-exclusive, non-transferable, and revocable license to download, install, and use the Software solely for Your personal, non-commercial purposes.
