@@ -1,0 +1,384 @@
+2025-03-02 01:20:42,863 - NewsSentiment - WARNING - MongoDB URL not available, using in-memory storage
+2025-03-02 01:20:42,864 - NewsSentiment - INFO - News Sentiment Analyzer initialized
+2025-03-02 01:20:42,865 - NewsSentiment - INFO - Sentiment monitoring loop started
+2025-03-02 01:20:42,865 - NewsSentiment - INFO - Started sentiment monitoring thread (interval: 3600s)
+2025-03-02 01:20:42,865 - NewsSentiment - INFO - Monitoring sentiment for 10 tickers
+2025-03-02 01:20:42,865 - NewsSentiment - INFO - Getting market sentiment for 10 tickers
+2025-03-02 01:20:42,865 - NewsSentiment - INFO - Getting combined sentiment for SPY
+2025-03-02 01:20:42,865 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:20:42,865 - NewsSentiment - INFO - Getting news sentiment for SPY
+2025-03-02 01:20:43,111 - NewsSentiment - ERROR - Error getting news sentiment for SPY: 'providerPublishTime'
+2025-03-02 01:20:43,111 - NewsSentiment - INFO - Getting combined sentiment for QQQ
+2025-03-02 01:20:43,111 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:20:43,111 - NewsSentiment - INFO - Getting news sentiment for QQQ
+2025-03-02 01:20:43,228 - NewsSentiment - ERROR - Error getting news sentiment for QQQ: 'providerPublishTime'
+2025-03-02 01:20:43,229 - NewsSentiment - INFO - Getting combined sentiment for DIA
+2025-03-02 01:20:43,229 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:20:43,230 - NewsSentiment - INFO - Getting news sentiment for DIA
+2025-03-02 01:20:43,327 - NewsSentiment - ERROR - Error getting news sentiment for DIA: 'providerPublishTime'
+2025-03-02 01:20:43,328 - NewsSentiment - INFO - Getting combined sentiment for AAPL
+2025-03-02 01:20:43,328 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:20:43,328 - NewsSentiment - INFO - Getting news sentiment for AAPL
+2025-03-02 01:20:43,430 - NewsSentiment - ERROR - Error getting news sentiment for AAPL: 'providerPublishTime'
+2025-03-02 01:20:43,431 - NewsSentiment - INFO - Getting combined sentiment for MSFT
+2025-03-02 01:20:43,431 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:20:43,431 - NewsSentiment - INFO - Getting news sentiment for MSFT
+2025-03-02 01:20:43,550 - NewsSentiment - ERROR - Error getting news sentiment for MSFT: 'providerPublishTime'
+2025-03-02 01:20:43,550 - NewsSentiment - INFO - Getting combined sentiment for GOOGL
+2025-03-02 01:20:43,550 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:20:43,551 - NewsSentiment - INFO - Getting news sentiment for GOOGL
+2025-03-02 01:20:43,666 - NewsSentiment - ERROR - Error getting news sentiment for GOOGL: 'providerPublishTime'
+2025-03-02 01:20:43,667 - NewsSentiment - INFO - Getting combined sentiment for AMZN
+2025-03-02 01:20:43,667 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:20:43,667 - NewsSentiment - INFO - Getting news sentiment for AMZN
+2025-03-02 01:20:43,762 - NewsSentiment - ERROR - Error getting news sentiment for AMZN: 'providerPublishTime'
+2025-03-02 01:20:43,762 - NewsSentiment - INFO - Getting combined sentiment for META
+2025-03-02 01:20:43,762 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:20:43,762 - NewsSentiment - INFO - Getting news sentiment for META
+2025-03-02 01:20:43,862 - NewsSentiment - ERROR - Error getting news sentiment for META: 'providerPublishTime'
+2025-03-02 01:20:43,863 - NewsSentiment - INFO - Getting combined sentiment for NVDA
+2025-03-02 01:20:43,863 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:20:43,863 - NewsSentiment - INFO - Getting news sentiment for NVDA
+2025-03-02 01:20:43,987 - NewsSentiment - ERROR - Error getting news sentiment for NVDA: 'providerPublishTime'
+2025-03-02 01:20:43,988 - NewsSentiment - INFO - Getting combined sentiment for TSLA
+2025-03-02 01:20:43,988 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:20:43,988 - NewsSentiment - INFO - Getting news sentiment for TSLA
+2025-03-02 01:20:44,092 - NewsSentiment - ERROR - Error getting news sentiment for TSLA: 'providerPublishTime'
+2025-03-02 01:20:44,092 - NewsSentiment - INFO - Getting combined sentiment for SPY
+2025-03-02 01:20:44,093 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:20:44,093 - NewsSentiment - INFO - Getting news sentiment for SPY
+2025-03-02 01:20:44,201 - NewsSentiment - ERROR - Error getting news sentiment for SPY: 'providerPublishTime'
+2025-03-02 01:20:46,202 - NewsSentiment - INFO - Getting combined sentiment for QQQ
+2025-03-02 01:20:46,202 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:20:46,202 - NewsSentiment - INFO - Getting news sentiment for QQQ
+2025-03-02 01:20:46,318 - NewsSentiment - ERROR - Error getting news sentiment for QQQ: 'providerPublishTime'
+2025-03-02 01:20:48,323 - NewsSentiment - INFO - Getting combined sentiment for DIA
+2025-03-02 01:20:48,324 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:20:48,324 - NewsSentiment - INFO - Getting news sentiment for DIA
+2025-03-02 01:20:48,434 - NewsSentiment - ERROR - Error getting news sentiment for DIA: 'providerPublishTime'
+2025-03-02 01:20:50,437 - NewsSentiment - INFO - Getting combined sentiment for AAPL
+2025-03-02 01:20:50,437 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:20:50,437 - NewsSentiment - INFO - Getting news sentiment for AAPL
+2025-03-02 01:20:50,544 - NewsSentiment - ERROR - Error getting news sentiment for AAPL: 'providerPublishTime'
+2025-03-02 01:20:52,549 - NewsSentiment - INFO - Getting combined sentiment for MSFT
+2025-03-02 01:20:52,550 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:20:52,550 - NewsSentiment - INFO - Getting news sentiment for MSFT
+2025-03-02 01:20:52,696 - NewsSentiment - ERROR - Error getting news sentiment for MSFT: 'providerPublishTime'
+2025-03-02 01:20:54,700 - NewsSentiment - INFO - Completed sentiment update for 10 tickers
+2025-03-02 01:20:54,701 - NewsSentiment - INFO - Sentiment monitoring loop stopped
+2025-03-02 01:20:54,702 - NewsSentiment - INFO - Stopped sentiment monitoring thread
+2025-03-02 01:42:38,781 - NewsSentiment - WARNING - MongoDB URL not available, using in-memory storage
+2025-03-02 01:42:38,782 - NewsSentiment - INFO - Multi-Source News Sentiment Analyzer initialized
+2025-03-02 01:42:38,782 - NewsSentiment - INFO - Sentiment monitoring loop started
+2025-03-02 01:42:38,782 - NewsSentiment - INFO - Started sentiment monitoring thread (interval: 3600s)
+2025-03-02 01:42:38,782 - NewsSentiment - INFO - Monitoring sentiment for 10 tickers
+2025-03-02 01:42:38,782 - NewsSentiment - INFO - Getting market sentiment for 10 tickers
+2025-03-02 01:42:38,783 - NewsSentiment - INFO - Getting combined sentiment for SPY
+2025-03-02 01:42:38,783 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:42:38,783 - NewsSentiment - INFO - Getting news sentiment for SPY
+2025-03-02 01:42:39,050 - NewsSentiment - INFO - Found 0 news articles for SPY
+2025-03-02 01:42:39,050 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:42:39,050 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:42:39,050 - NewsSentiment - INFO - Getting Reddit sentiment for SPY
+2025-03-02 01:42:39,618 - NewsSentiment - INFO - Getting combined sentiment for QQQ
+2025-03-02 01:42:39,618 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:42:39,618 - NewsSentiment - INFO - Getting news sentiment for QQQ
+2025-03-02 01:42:39,756 - NewsSentiment - INFO - Found 0 news articles for QQQ
+2025-03-02 01:42:39,756 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:42:39,756 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:42:39,756 - NewsSentiment - INFO - Getting Reddit sentiment for QQQ
+2025-03-02 01:42:40,207 - NewsSentiment - INFO - Getting combined sentiment for DIA
+2025-03-02 01:42:40,207 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:42:40,207 - NewsSentiment - INFO - Getting news sentiment for DIA
+2025-03-02 01:42:40,312 - NewsSentiment - INFO - Found 0 news articles for DIA
+2025-03-02 01:42:40,313 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:42:40,313 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:42:40,313 - NewsSentiment - INFO - Getting Reddit sentiment for DIA
+2025-03-02 01:42:40,835 - NewsSentiment - INFO - Getting combined sentiment for AAPL
+2025-03-02 01:42:40,835 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:42:40,835 - NewsSentiment - INFO - Getting news sentiment for AAPL
+2025-03-02 01:42:40,975 - NewsSentiment - INFO - Found 0 news articles for AAPL
+2025-03-02 01:42:40,975 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:42:40,975 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:42:40,975 - NewsSentiment - INFO - Getting Reddit sentiment for AAPL
+2025-03-02 01:42:41,482 - NewsSentiment - INFO - Getting combined sentiment for MSFT
+2025-03-02 01:42:41,482 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:42:41,482 - NewsSentiment - INFO - Getting news sentiment for MSFT
+2025-03-02 01:42:41,614 - NewsSentiment - INFO - Found 0 news articles for MSFT
+2025-03-02 01:42:41,614 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:42:41,614 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:42:41,614 - NewsSentiment - INFO - Getting Reddit sentiment for MSFT
+2025-03-02 01:42:42,109 - NewsSentiment - INFO - Getting combined sentiment for GOOGL
+2025-03-02 01:42:42,109 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:42:42,109 - NewsSentiment - INFO - Getting news sentiment for GOOGL
+2025-03-02 01:42:42,228 - NewsSentiment - INFO - Found 0 news articles for GOOGL
+2025-03-02 01:42:42,229 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:42:42,229 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:42:42,229 - NewsSentiment - INFO - Getting Reddit sentiment for GOOGL
+2025-03-02 01:42:42,680 - NewsSentiment - INFO - Getting combined sentiment for AMZN
+2025-03-02 01:42:42,681 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:42:42,681 - NewsSentiment - INFO - Getting news sentiment for AMZN
+2025-03-02 01:42:42,805 - NewsSentiment - INFO - Found 0 news articles for AMZN
+2025-03-02 01:42:42,805 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:42:42,806 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:42:42,806 - NewsSentiment - INFO - Getting Reddit sentiment for AMZN
+2025-03-02 01:42:43,186 - NewsSentiment - INFO - Getting combined sentiment for META
+2025-03-02 01:42:43,186 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:42:43,187 - NewsSentiment - INFO - Getting news sentiment for META
+2025-03-02 01:42:43,297 - NewsSentiment - INFO - Found 0 news articles for META
+2025-03-02 01:42:43,298 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:42:43,298 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:42:43,298 - NewsSentiment - INFO - Getting Reddit sentiment for META
+2025-03-02 01:42:43,804 - NewsSentiment - INFO - Getting combined sentiment for NVDA
+2025-03-02 01:42:43,804 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:42:43,804 - NewsSentiment - INFO - Getting news sentiment for NVDA
+2025-03-02 01:42:43,930 - NewsSentiment - INFO - Found 0 news articles for NVDA
+2025-03-02 01:42:43,930 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:42:43,931 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:42:43,931 - NewsSentiment - INFO - Getting Reddit sentiment for NVDA
+2025-03-02 01:42:44,372 - NewsSentiment - INFO - Getting combined sentiment for TSLA
+2025-03-02 01:42:44,372 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:42:44,372 - NewsSentiment - INFO - Getting news sentiment for TSLA
+2025-03-02 01:42:44,480 - NewsSentiment - INFO - Found 0 news articles for TSLA
+2025-03-02 01:42:44,481 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:42:44,481 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:42:44,481 - NewsSentiment - INFO - Getting Reddit sentiment for TSLA
+2025-03-02 01:42:44,898 - NewsSentiment - INFO - Getting combined sentiment for SPY
+2025-03-02 01:42:44,898 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:42:44,899 - NewsSentiment - INFO - Getting news sentiment for SPY
+2025-03-02 01:42:45,008 - NewsSentiment - INFO - Found 0 news articles for SPY
+2025-03-02 01:42:45,009 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:42:45,009 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:42:45,009 - NewsSentiment - INFO - Using cached Reddit sentiment for SPY
+2025-03-02 01:42:47,014 - NewsSentiment - INFO - Getting combined sentiment for QQQ
+2025-03-02 01:42:47,014 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:42:47,015 - NewsSentiment - INFO - Getting news sentiment for QQQ
+2025-03-02 01:42:47,128 - NewsSentiment - INFO - Found 0 news articles for QQQ
+2025-03-02 01:42:47,128 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:42:47,128 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:42:47,129 - NewsSentiment - INFO - Using cached Reddit sentiment for QQQ
+2025-03-02 01:42:49,134 - NewsSentiment - INFO - Getting combined sentiment for DIA
+2025-03-02 01:42:49,134 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:42:49,134 - NewsSentiment - INFO - Getting news sentiment for DIA
+2025-03-02 01:42:49,241 - NewsSentiment - INFO - Found 0 news articles for DIA
+2025-03-02 01:42:49,241 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:42:49,242 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:42:49,242 - NewsSentiment - INFO - Using cached Reddit sentiment for DIA
+2025-03-02 01:52:50,844 - NewsSentiment - WARNING - MongoDB URL not available, using in-memory storage
+2025-03-02 01:52:50,846 - NewsSentiment - INFO - Multi-Source News Sentiment Analyzer initialized
+2025-03-02 01:52:50,846 - NewsSentiment - INFO - Sentiment monitoring loop started
+2025-03-02 01:52:50,846 - NewsSentiment - INFO - Started sentiment monitoring thread (interval: 3600s)
+2025-03-02 01:52:50,846 - NewsSentiment - INFO - Monitoring sentiment for 10 tickers
+2025-03-02 01:52:50,846 - NewsSentiment - INFO - Getting market sentiment for 10 tickers
+2025-03-02 01:52:50,846 - NewsSentiment - INFO - Getting combined sentiment for SPY
+2025-03-02 01:52:50,846 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:52:50,846 - NewsSentiment - INFO - Getting news sentiment for SPY
+2025-03-02 01:52:51,080 - NewsSentiment - INFO - Found 0 news articles for SPY
+2025-03-02 01:52:51,080 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:52:51,080 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:52:51,080 - NewsSentiment - INFO - Getting Reddit sentiment for SPY
+2025-03-02 01:52:51,574 - NewsSentiment - INFO - Getting combined sentiment for QQQ
+2025-03-02 01:52:51,574 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:52:51,574 - NewsSentiment - INFO - Getting news sentiment for QQQ
+2025-03-02 01:52:51,721 - NewsSentiment - INFO - Found 0 news articles for QQQ
+2025-03-02 01:52:51,721 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:52:51,721 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:52:51,721 - NewsSentiment - INFO - Getting Reddit sentiment for QQQ
+2025-03-02 01:52:52,191 - NewsSentiment - INFO - Getting combined sentiment for DIA
+2025-03-02 01:52:52,191 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:52:52,191 - NewsSentiment - INFO - Getting news sentiment for DIA
+2025-03-02 01:52:52,304 - NewsSentiment - INFO - Found 0 news articles for DIA
+2025-03-02 01:52:52,304 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:52:52,304 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:52:52,304 - NewsSentiment - INFO - Getting Reddit sentiment for DIA
+2025-03-02 01:52:52,915 - NewsSentiment - INFO - Getting combined sentiment for AAPL
+2025-03-02 01:52:52,915 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:52:52,915 - NewsSentiment - INFO - Getting news sentiment for AAPL
+2025-03-02 01:52:53,037 - NewsSentiment - INFO - Found 0 news articles for AAPL
+2025-03-02 01:52:53,037 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:52:53,038 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:52:53,038 - NewsSentiment - INFO - Getting Reddit sentiment for AAPL
+2025-03-02 01:52:53,511 - NewsSentiment - INFO - Getting combined sentiment for MSFT
+2025-03-02 01:52:53,511 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:52:53,511 - NewsSentiment - INFO - Getting news sentiment for MSFT
+2025-03-02 01:52:53,622 - NewsSentiment - INFO - Found 0 news articles for MSFT
+2025-03-02 01:52:53,622 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:52:53,622 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:52:53,622 - NewsSentiment - INFO - Getting Reddit sentiment for MSFT
+2025-03-02 01:52:54,030 - NewsSentiment - INFO - Getting combined sentiment for GOOGL
+2025-03-02 01:52:54,031 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:52:54,031 - NewsSentiment - INFO - Getting news sentiment for GOOGL
+2025-03-02 01:52:54,161 - NewsSentiment - INFO - Found 0 news articles for GOOGL
+2025-03-02 01:52:54,162 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:52:54,162 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:52:54,162 - NewsSentiment - INFO - Getting Reddit sentiment for GOOGL
+2025-03-02 01:52:54,594 - NewsSentiment - INFO - Getting combined sentiment for AMZN
+2025-03-02 01:52:54,594 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:52:54,594 - NewsSentiment - INFO - Getting news sentiment for AMZN
+2025-03-02 01:52:54,711 - NewsSentiment - INFO - Found 0 news articles for AMZN
+2025-03-02 01:52:54,711 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:52:54,711 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:52:54,711 - NewsSentiment - INFO - Getting Reddit sentiment for AMZN
+2025-03-02 01:52:55,117 - NewsSentiment - INFO - Getting combined sentiment for META
+2025-03-02 01:52:55,117 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:52:55,117 - NewsSentiment - INFO - Getting news sentiment for META
+2025-03-02 01:52:55,235 - NewsSentiment - INFO - Found 0 news articles for META
+2025-03-02 01:52:55,235 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:52:55,235 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:52:55,235 - NewsSentiment - INFO - Getting Reddit sentiment for META
+2025-03-02 01:52:55,754 - NewsSentiment - INFO - Getting combined sentiment for NVDA
+2025-03-02 01:52:55,754 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:52:55,755 - NewsSentiment - INFO - Getting news sentiment for NVDA
+2025-03-02 01:52:55,864 - NewsSentiment - INFO - Found 0 news articles for NVDA
+2025-03-02 01:52:55,864 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:52:55,864 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:52:55,864 - NewsSentiment - INFO - Getting Reddit sentiment for NVDA
+2025-03-02 01:52:56,351 - NewsSentiment - INFO - Getting combined sentiment for TSLA
+2025-03-02 01:52:56,351 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:52:56,351 - NewsSentiment - INFO - Getting news sentiment for TSLA
+2025-03-02 01:52:56,456 - NewsSentiment - INFO - Found 0 news articles for TSLA
+2025-03-02 01:52:56,456 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:52:56,456 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:52:56,456 - NewsSentiment - INFO - Getting Reddit sentiment for TSLA
+2025-03-02 01:52:56,851 - NewsSentiment - INFO - Getting combined sentiment for SPY
+2025-03-02 01:52:56,851 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:52:56,851 - NewsSentiment - INFO - Getting news sentiment for SPY
+2025-03-02 01:52:56,977 - NewsSentiment - INFO - Found 0 news articles for SPY
+2025-03-02 01:52:56,977 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:52:56,977 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:52:56,977 - NewsSentiment - INFO - Using cached Reddit sentiment for SPY
+2025-03-02 01:52:58,982 - NewsSentiment - INFO - Getting combined sentiment for QQQ
+2025-03-02 01:52:58,983 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:52:58,983 - NewsSentiment - INFO - Getting news sentiment for QQQ
+2025-03-02 01:52:59,099 - NewsSentiment - INFO - Found 0 news articles for QQQ
+2025-03-02 01:52:59,099 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:52:59,099 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:52:59,099 - NewsSentiment - INFO - Using cached Reddit sentiment for QQQ
+2025-03-02 01:53:01,100 - NewsSentiment - INFO - Getting combined sentiment for DIA
+2025-03-02 01:53:01,100 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:53:01,100 - NewsSentiment - INFO - Getting news sentiment for DIA
+2025-03-02 01:53:01,208 - NewsSentiment - INFO - Found 0 news articles for DIA
+2025-03-02 01:53:01,208 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:53:01,208 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:53:01,208 - NewsSentiment - INFO - Using cached Reddit sentiment for DIA
+2025-03-02 01:53:03,214 - NewsSentiment - INFO - Getting combined sentiment for AAPL
+2025-03-02 01:53:03,214 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:53:03,214 - NewsSentiment - INFO - Getting news sentiment for AAPL
+2025-03-02 01:53:03,343 - NewsSentiment - INFO - Found 0 news articles for AAPL
+2025-03-02 01:53:03,343 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:53:03,343 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:53:03,343 - NewsSentiment - INFO - Using cached Reddit sentiment for AAPL
+2025-03-02 01:57:29,363 - NewsSentiment - WARNING - MongoDB URL not available, using in-memory storage
+2025-03-02 01:57:29,364 - NewsSentiment - INFO - Multi-Source News Sentiment Analyzer initialized
+2025-03-02 01:57:29,364 - NewsSentiment - INFO - Sentiment monitoring loop started
+2025-03-02 01:57:29,364 - NewsSentiment - INFO - Started sentiment monitoring thread (interval: 3600s)
+2025-03-02 01:57:29,364 - NewsSentiment - INFO - Monitoring sentiment for 10 tickers
+2025-03-02 01:57:29,364 - NewsSentiment - INFO - Getting market sentiment for 10 tickers
+2025-03-02 01:57:29,364 - NewsSentiment - INFO - Getting combined sentiment for SPY
+2025-03-02 01:57:29,364 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:57:29,364 - NewsSentiment - INFO - Getting news sentiment for SPY
+2025-03-02 01:57:29,878 - NewsSentiment - INFO - Found 0 news articles for SPY
+2025-03-02 01:57:29,879 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:57:29,879 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:57:29,879 - NewsSentiment - INFO - Getting Reddit sentiment for SPY
+2025-03-02 01:57:30,357 - NewsSentiment - INFO - Getting combined sentiment for QQQ
+2025-03-02 01:57:30,357 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:57:30,357 - NewsSentiment - INFO - Getting news sentiment for QQQ
+2025-03-02 01:57:30,474 - NewsSentiment - INFO - Found 0 news articles for QQQ
+2025-03-02 01:57:30,474 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:57:30,474 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:57:30,474 - NewsSentiment - INFO - Getting Reddit sentiment for QQQ
+2025-03-02 01:57:30,979 - NewsSentiment - INFO - Getting combined sentiment for DIA
+2025-03-02 01:57:30,979 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:57:30,979 - NewsSentiment - INFO - Getting news sentiment for DIA
+2025-03-02 01:57:31,094 - NewsSentiment - INFO - Found 0 news articles for DIA
+2025-03-02 01:57:31,094 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:57:31,094 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:57:31,094 - NewsSentiment - INFO - Getting Reddit sentiment for DIA
+2025-03-02 01:57:31,654 - NewsSentiment - INFO - Getting combined sentiment for AAPL
+2025-03-02 01:57:31,654 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:57:31,654 - NewsSentiment - INFO - Getting news sentiment for AAPL
+2025-03-02 01:57:31,770 - NewsSentiment - INFO - Found 0 news articles for AAPL
+2025-03-02 01:57:31,771 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:57:31,771 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:57:31,771 - NewsSentiment - INFO - Getting Reddit sentiment for AAPL
+2025-03-02 01:57:32,278 - NewsSentiment - INFO - Getting combined sentiment for MSFT
+2025-03-02 01:57:32,278 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:57:32,278 - NewsSentiment - INFO - Getting news sentiment for MSFT
+2025-03-02 01:57:32,400 - NewsSentiment - INFO - Found 0 news articles for MSFT
+2025-03-02 01:57:32,400 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:57:32,400 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:57:32,400 - NewsSentiment - INFO - Getting Reddit sentiment for MSFT
+2025-03-02 01:57:32,765 - NewsSentiment - INFO - Getting combined sentiment for GOOGL
+2025-03-02 01:57:32,765 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:57:32,765 - NewsSentiment - INFO - Getting news sentiment for GOOGL
+2025-03-02 01:57:32,896 - NewsSentiment - INFO - Found 0 news articles for GOOGL
+2025-03-02 01:57:32,897 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:57:32,897 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:57:32,897 - NewsSentiment - INFO - Getting Reddit sentiment for GOOGL
+2025-03-02 01:57:33,262 - NewsSentiment - INFO - Getting combined sentiment for AMZN
+2025-03-02 01:57:33,262 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:57:33,263 - NewsSentiment - INFO - Getting news sentiment for AMZN
+2025-03-02 01:57:33,399 - NewsSentiment - INFO - Found 0 news articles for AMZN
+2025-03-02 01:57:33,399 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:57:33,400 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:57:33,400 - NewsSentiment - INFO - Getting Reddit sentiment for AMZN
+2025-03-02 01:57:33,748 - NewsSentiment - INFO - Getting combined sentiment for META
+2025-03-02 01:57:33,748 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:57:33,748 - NewsSentiment - INFO - Getting news sentiment for META
+2025-03-02 01:57:33,863 - NewsSentiment - INFO - Found 0 news articles for META
+2025-03-02 01:57:33,863 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:57:33,864 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:57:33,864 - NewsSentiment - INFO - Getting Reddit sentiment for META
+2025-03-02 01:57:34,386 - NewsSentiment - INFO - Getting combined sentiment for NVDA
+2025-03-02 01:57:34,386 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:57:34,387 - NewsSentiment - INFO - Getting news sentiment for NVDA
+2025-03-02 01:57:34,589 - NewsSentiment - INFO - Found 0 news articles for NVDA
+2025-03-02 01:57:34,589 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:57:34,589 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:57:34,589 - NewsSentiment - INFO - Getting Reddit sentiment for NVDA
+2025-03-02 01:57:35,097 - NewsSentiment - INFO - Getting combined sentiment for TSLA
+2025-03-02 01:57:35,097 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:57:35,097 - NewsSentiment - INFO - Getting news sentiment for TSLA
+2025-03-02 01:57:35,209 - NewsSentiment - INFO - Found 0 news articles for TSLA
+2025-03-02 01:57:35,209 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:57:35,209 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:57:35,209 - NewsSentiment - INFO - Getting Reddit sentiment for TSLA
+2025-03-02 01:57:35,595 - NewsSentiment - INFO - Getting combined sentiment for SPY
+2025-03-02 01:57:35,596 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:57:35,596 - NewsSentiment - INFO - Getting news sentiment for SPY
+2025-03-02 01:57:35,761 - NewsSentiment - INFO - Found 0 news articles for SPY
+2025-03-02 01:57:35,761 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:57:35,761 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:57:35,761 - NewsSentiment - INFO - Using cached Reddit sentiment for SPY
+2025-03-02 01:57:37,766 - NewsSentiment - INFO - Getting combined sentiment for QQQ
+2025-03-02 01:57:37,766 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:57:37,766 - NewsSentiment - INFO - Getting news sentiment for QQQ
+2025-03-02 01:57:37,927 - NewsSentiment - INFO - Found 0 news articles for QQQ
+2025-03-02 01:57:37,927 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:57:37,927 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:57:37,927 - NewsSentiment - INFO - Using cached Reddit sentiment for QQQ
+2025-03-02 01:57:39,932 - NewsSentiment - INFO - Getting combined sentiment for DIA
+2025-03-02 01:57:39,933 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:57:39,933 - NewsSentiment - INFO - Getting news sentiment for DIA
+2025-03-02 01:57:40,041 - NewsSentiment - INFO - Found 0 news articles for DIA
+2025-03-02 01:57:40,041 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:57:40,041 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:57:40,042 - NewsSentiment - INFO - Using cached Reddit sentiment for DIA
+2025-03-02 01:57:42,047 - NewsSentiment - INFO - Getting combined sentiment for AAPL
+2025-03-02 01:57:42,048 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:57:42,048 - NewsSentiment - INFO - Getting news sentiment for AAPL
+2025-03-02 01:57:42,189 - NewsSentiment - INFO - Found 0 news articles for AAPL
+2025-03-02 01:57:42,189 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:57:42,189 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:57:42,189 - NewsSentiment - INFO - Using cached Reddit sentiment for AAPL
+2025-03-02 01:57:44,194 - NewsSentiment - INFO - Getting combined sentiment for MSFT
+2025-03-02 01:57:44,195 - NewsSentiment - WARNING - Twitter API not available
+2025-03-02 01:57:44,195 - NewsSentiment - INFO - Getting news sentiment for MSFT
+2025-03-02 01:57:44,326 - NewsSentiment - INFO - Found 0 news articles for MSFT
+2025-03-02 01:57:44,326 - NewsSentiment - INFO - NewsAPI key not provided
+2025-03-02 01:57:44,326 - NewsSentiment - INFO - Finnhub key not provided
+2025-03-02 01:57:44,327 - NewsSentiment - INFO - Using cached Reddit sentiment for MSFT
+2025-03-02 01:57:46,328 - NewsSentiment - INFO - Completed sentiment update for 10 tickers
+2025-03-02 01:57:46,328 - NewsSentiment - INFO - Sentiment monitoring loop stopped
+2025-03-02 01:57:46,329 - NewsSentiment - INFO - Stopped sentiment monitoring thread

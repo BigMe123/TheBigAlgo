@@ -1,0 +1,60 @@
+ALPHA SYNTH LICENSE AGREEMENT
+Copyright © 2025 by Marco Dorazio
+All Rights Reserved
+
+This License Agreement (hereinafter, the “License”) is a legal agreement between you (either an individual or an entity, hereinafter “You” or “Licensee”) and Marco Dorazio (hereinafter, “Licensor”) regarding the software program known as “Alpha Synth” (hereinafter, the “Software”).
+
+1. License Grant
+1.1 Grant of License. Subject to the terms and conditions of this License, Licensor hereby grants You a limited, non-exclusive, non-transferable, and revocable license to download, install, and use the Software solely for Your personal, non-commercial purposes.
+
+1.2 Scope. This License does not include any rights not expressly granted hereunder. Any and all rights in and to the Software not expressly granted to You under this License are hereby reserved by Licensor.
+
+2. Restrictions
+2.1 No Distribution. You shall not distribute, publish, or otherwise make the Software (in whole or in part, in source code or binary form) available to any third party without Licensor’s prior written consent.
+
+2.2 No Derivative Works. You shall not modify, reverse engineer, translate, adapt, or create derivative works based upon the Software, in whole or in part, without Licensor’s prior written consent.
+
+2.3 No Commercial Use. You shall not use the Software, in whole or in part, for commercial purposes, including but not limited to offering services using the Software or incorporating it into products for sale, without Licensor’s prior written consent.
+
+2.4 No Sublicensing or Transfer. You shall not sublicense, assign, or otherwise transfer any rights granted under this License without Licensor’s prior written consent. Any purported transfer in violation of this provision shall be null and void.
+
+3. Intellectual Property
+3.1 Ownership. The Software is protected by copyright and other applicable intellectual property laws and treaties. All title and rights in and to the Software, including all intellectual property rights, remain solely and exclusively with Licensor.
+
+3.2 No Trademark License. Nothing in this License grants You any right, license, or interest in or to any trademarks, service marks, or trade names of the Licensor.
+
+4. Disclaimer of Warranty
+4.1 AS-IS Provision. THE SOFTWARE IS PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+4.2 No Guarantee. Licensor does not warrant that the Software will meet Your requirements or operate in an uninterrupted or error-free manner. The entire risk as to the quality and performance of the Software remains with You.
+
+5. Limitation of Liability
+5.1 No Liability. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING BUT NOT LIMITED TO DAMAGES FOR LOSS OF PROFITS, BUSINESS INTERRUPTION, OR LOSS OF INFORMATION) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+5.2 Aggregate Liability. IN ANY CASE, LICENSOR’S AGGREGATE LIABILITY UNDER THIS LICENSE SHALL NOT EXCEED THE AMOUNT ACTUALLY PAID BY YOU FOR THE SOFTWARE OR TEN U.S. DOLLARS (USD $10), WHICHEVER IS GREATER.
+
+6. Termination
+6.1 Automatic Termination. This License and the rights granted hereunder shall terminate automatically and without notice if You fail to comply with any term of this License.
+
+6.2 Effect of Termination. Upon termination, You shall immediately cease all use of the Software and destroy or securely delete all copies of the Software in Your possession, including any related documentation.
+
+6.3 Survival. The provisions of this License that, by their nature, should survive termination, shall survive termination.
+
+7. Governing Law and Jurisdiction
+7.1 Governing Law. This License shall be governed by and construed in accordance with the laws of the Commonwealth of Massachusetts, United States of America, without regard to its conflict of law principles.
+
+7.2 Jurisdiction. Any disputes arising under or in connection with this License shall be submitted to the exclusive jurisdiction of the state or federal courts located in the Commonwealth of Massachusetts, and You hereby consent to the personal jurisdiction and venue of these courts.
+
+8. Entire Agreement
+8.1 Integration. This License constitutes the entire agreement between You and Licensor with respect to the Software and supersedes all prior or contemporaneous understandings regarding such subject matter.
+
+8.2 Amendments. No amendment, modification, or waiver of any provision of this License shall be valid unless set forth in a written instrument signed by the Licensor.
+
+9. Severability
+9.1 Partial Invalidity. If any provision of this License is found to be invalid, unlawful, or unenforceable, in whole or in part, such provision shall be severed, and the validity of the remaining provisions shall not be affected.
+
+BY DOWNLOADING, INSTALLING, OR USING THE SOFTWARE, YOU ACKNOWLEDGE THAT YOU HAVE READ AND UNDERSTAND THIS LICENSE AND AGREE TO BE BOUND BY ITS TERMS.
+
+For additional information or to request permissions beyond the scope of this License, please contact:
+Marco Dorazio
+Email: shadowguy311@gmail.com

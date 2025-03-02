@@ -1,0 +1,22 @@
+2025-02-26 16:22:37,269 - INFO - Mixed precision enabled with policy: mixed_float16
+2025-02-26 16:22:37,269 - INFO - TensorFlow 2.16.2 successfully imported
+2025-02-26 16:22:39,570 - WARNING - Market Regime Detector module not available
+2025-02-26 16:22:40,309 - INFO - Feature engineering component initialized
+2025-02-26 16:22:40,309 - INFO - Model registry not found. Will create new models.
+2025-02-26 16:22:40,310 - INFO - Ensemble model component initialized
+2025-02-26 16:22:40,310 - INFO - RL weight generator component initialized
+2025-02-26 16:22:40,310 - ERROR - Error initializing HFT analyzer: 'kalman_process_noise'
+2025-02-26 16:22:40,310 - INFO - Portfolio optimizer component initialized
+2025-02-26 16:22:40,310 - INFO - Model registry not found. Will create new models.
+2025-02-26 16:22:40,310 - INFO - Ensemble models loaded
+2025-02-26 16:22:40,310 - WARNING - No metadata file found, cannot load models
+2025-02-26 16:22:40,310 - INFO - RL weight generator models loaded
+2025-02-26 16:22:40,310 - INFO - Scheduled weekly training on sunday at 20:00
+2025-02-26 16:22:40,310 - INFO - Scheduled daily predictions at 08:00
+2025-02-26 16:22:40,310 - INFO - Scheduler started
+2025-02-26 16:22:40,310 - INFO - Enhanced Trading System initialized
+2025-02-26 16:22:40,310 - INFO - Starting trading system scheduler...
+2025-02-26 16:22:40,310 - WARNING - Scheduler is already running
+2025-02-26 16:23:21,216 - INFO - Stopping trading system scheduler...
+2025-02-26 16:23:26,220 - INFO - Scheduler stopped
+2025-02-26 16:23:26,221 - INFO - Scheduler stopped

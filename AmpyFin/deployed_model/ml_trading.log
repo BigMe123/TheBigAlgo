@@ -1,0 +1,26 @@
+2025-02-24 21:12:28 - INFO - No existing model found. A new model will be trained.
+2025-02-24 21:12:28 - INFO - Training XGBoost model...
+2025-02-24 21:12:28 - INFO - Model trained with F2 score: 0.2778
+2025-02-24 21:12:28 - INFO - Model and scaler saved successfully
+2025-02-25 01:47:25 - INFO - Model and scaler loaded successfully
+2025-02-25 01:47:26 - ERROR - Error making prediction: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ATR_14
+- BB_Lower
+- BB_Middle
+- BB_Position
+- BB_Std
+- ...
+
+2025-02-25 01:47:26 - ERROR - Error making prediction: The feature names should match those that were passed during fit.
+Feature names unseen at fit time:
+- ATR_14
+- BB_Lower
+- BB_Middle
+- BB_Position
+- BB_Std
+- ...
+
+2025-02-25 01:47:26 - WARNING - Models not loaded. Cannot generate weight.
+2025-02-25 01:53:02 - INFO - Model and scaler loaded successfully
+2025-02-25 01:53:02 - WARNING - Models not loaded. Cannot generate weight.
