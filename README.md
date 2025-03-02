@@ -186,7 +186,8 @@ This is an experimental trading research tool. Trading involves significant fina
 ## Notes
 
 1. The CSV Data is currently NOT implemented by any functional class right now.
-2. I highly reccomend running this on a cloud or on a powerful PC. The sentiment and ML bot add a lot of complexity. 
+2. I highly reccomend running this on a cloud or on a powerful PC. The sentiment and ML bot add a lot of complexity.
+3. Secure your API key guys. 
 
 
 
